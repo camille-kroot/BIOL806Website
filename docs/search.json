@@ -40,5 +40,19 @@
     "title": "About Me",
     "section": "",
     "text": "All sorts of salty marshy things!!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My project is really cool"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "My project is really cool"
   }
 ]
