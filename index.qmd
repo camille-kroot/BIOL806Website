@@ -3,17 +3,20 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/pfp.jpg
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals
+Currently I am just trying to make it through CERF and then I will reevaluate 
 
 ## Education
+I am currently at the University of New Hampshire, pursuing my Master's degree in Marine Biology with Dr. Ashley Bulseco. 
+
+I graduated from Northeastern University (Spring 2025) with a Bachelor's of Science in Environmental and Sustainability sciences with a concentration of Earth, Oceans, and Environmental Change.
 
 ## Experience
-
+All sorts of salty marshy things!!
 :::
 
 Thanks for checking out my web site!
